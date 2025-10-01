@@ -62,6 +62,15 @@ pip install -r requirements.txt
 
 For MultiTableQA, we release a comprehensive benchmark via [Hugging Face](https://huggingface.co/collections/jiaruz2/multitableqa-68dc8d850ea7e168f47cecd8), constructed from five widely used table QA datasets: TATQA, TabFact, SQA, WTQ, and HybridQA. MultiTableQA extends the traditional single-table QA setting into a **multi-table retrieval and question answering benchmark**, enabling more realistic and challenging evaluations.
 
+Our benchmark including five different datasets covering table fact-checking, single-hop QA, and multi-hop QA: 
+| Dataset              | Link |
+|-----------------------|------|
+| MultiTableQA-TATQA    | 🤗 [dataset link](https://huggingface.co/datasets/jiaruz2/MultiTableQA_TATQA)   |
+| MultiTableQA-TabFact  | 🤗 [dataset link](https://huggingface.co/datasets/jiaruz2/MultiTableQA_TabFact) |
+| MultiTableQA-SQA      | 🤗 [dataset link](https://huggingface.co/datasets/jiaruz2/MultiTableQA_SQA)     |
+| MultiTableQA-WTQ      | 🤗 [dataset link](https://huggingface.co/datasets/jiaruz2/MultiTableQA_WTQ)     |
+| MultiTableQA-HybridQA | 🤗 [dataset link](https://huggingface.co/datasets/jiaruz2/MultiTableQA_HybridQA)|
+
 
 To download and preprocess the **MultiTableQA** benchmark:
 
