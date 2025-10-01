@@ -78,11 +78,11 @@ To run hierarchical index construction and multi-stage retrieval:
 
 **Stage 1 & 2: Table to Graph Construction & Coarse-grained Multi-way Retrieval**
 
-Stage 1&2 includes:
-- Table Linarlization
+Stages 1 & 2 include:
+- Table Linearization
 - Multi-way Feature Extraction
 - Hypergraph Construction by Multi-way Clustering
-- Typical Node Selection for Effecient Table Retrieval
+- Typical Node Selection for Efficient Table Retrieval
 - Query-Cluster Assignment
 
 To run this,
@@ -93,7 +93,7 @@ cd table2graph
 bash scripts/table_cluster_run.sh #  or python scripts/table_cluster_run.py
 ```
 
-**Stage 3: Fine grained sub-graph Retrieval**
+**Stage 3: Fine-grained sub-graph Retrieval**
 Stage 3 includes:
 - Local Subgraph Construction
 - Iterative Personalized PageRank for Retrieval.
@@ -105,7 +105,7 @@ cd table2graph
 python scripts/subgraph_retrieve_run.py
 ```
 
-*Note: Our method supports differnt embedding methods such as E5, contriever, sentence-transformer, etc.**
+*Note: Our method supports different embedding methods such as E5, contriever, sentence-transformer, etc.**
 
 ### 3. Downstream Inference with LLMs
 Evaluate T-RAG with an (open/closed-source) LLM of your choice (e.g., GPT-4o, Claude-3.5, Qwen):
@@ -130,7 +130,7 @@ bash scripts/overall_run.sh
 
 ## 📖 Citation
 
-If you use this work, please cite:
+If you find our work useful, please cite:
 
 ```bibtex
 @misc{zou2025gtrgraphtableragcrosstablequestion,
