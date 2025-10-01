@@ -1,0 +1,4 @@
+{
+    "openai": "<YOUR_OPENAI_API_KEY>",
+    "claude": "<YOUR_CLAUDE_API_KEY>"
+}
