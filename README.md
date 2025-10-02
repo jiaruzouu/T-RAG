@@ -5,24 +5,9 @@
 </div>
 
 <p align="center">
-  <a href="https://arxiv.org/abs/2504.01346">
-    <img
-      src="https://img.shields.io/badge/arXiv-Paper-red?logo=arxiv&logoColor=red"
-      alt="Paper on arXiv"
-    />
-  </a>
-  <a href="https://huggingface.co/collections/jiaruz2/multitableqa-68dc8d850ea7e168f47cecd8">
-    <img 
-        src="https://img.shields.io/badge/MultiTableQA-Hugging%20Face%20Collection-orange?logo=huggingface&logoColor=yellow" 
-        alt="MultiTableQA on Hugging Face"
-    />
-  </a>
-  <a href="https://opensource.org/licenses/MIT">
-    <img 
-        src="https://img.shields.io/badge/License-MIT-yellow.svg" 
-        alt="License: MIT"
-    />
-  </a>
+  <a href="https://arxiv.org/abs/2504.01346"><img src="https://img.shields.io/badge/arXiv-Paper-red?logo=arxiv&logoColor=red" alt="Paper on arXiv"/></a>
+  <a href="https://huggingface.co/collections/jiaruz2/multitableqa-68dc8d850ea7e168f47cecd8"><img src="https://img.shields.io/badge/MultiTableQA-Hugging%20Face%20Collection-orange?logo=huggingface&logoColor=yellow" alt="MultiTableQA on Hugging Face"/></a>
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"/></a>
 </p>
 
 ![Method](assets/method.png)
