@@ -127,8 +127,8 @@ bash scripts/overall_run.sh
 If you find our work useful, please cite:
 
 ```bibtex
-@misc{zou2025gtrgraphtableragcrosstablequestion,
-      title={GTR: Graph-Table-RAG for Cross-Table Question Answering}, 
+@misc{zou2025rag,
+      title={RAG over Tables: Hierarchical Memory Index, Multi-Stage Retrieval, and Benchmarking}, 
       author={Jiaru Zou and Dongqi Fu and Sirui Chen and Xinrui He and Zihao Li and Yada Zhu and Jiawei Han and Jingrui He},
       year={2025},
       eprint={2504.01346},
